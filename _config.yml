@@ -19,15 +19,15 @@
 # in the templates via {{ site.myvariable }}.
 name: The Pondering Farmhouse
 title: The Pondering Farmhouse
-email: your-email@example.com
+email: jennie.lee.chamberlin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Reflecting on Life on Virginia's Eastern Shore
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
-# logo: 'assets/images/logo.png'
-# favicon: 'assets/images/logo.png'
+twitter_username: _littleredninja
+github_username:  littleredninja
+favicon: 'assets/images/logo.png'
+logo: 'assets/images/logo.png'
 # baseurl: /jekyll-theme-memoirs
 # google_analytics: 'UA-xxxxxxxx-1'
 # disqus: 'demowebsite'
@@ -40,10 +40,10 @@ authors:
   jennie:
     name: Jennie
     display_name: Jennie
-    avatar: 'assets/images/avatar-sal.png'
-    # email: wowthemesnet@gmail.com
+    avatar: 'assets/images/avatar-jennie.jpg'
+    email: jennie.lee.chamberlin@gmail.com
+    twitter: https://twitter.com/_littleredninja
     # web: https://www.wowthemes.net/donate/
-    # twitter: https://twitter.com/wowthemesnet
     # description: "Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo."
   # john:
   #   name: John
